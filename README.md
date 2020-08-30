@@ -2,6 +2,8 @@
 
 [![img](https://img.shields.io/crates/l/clone-block.svg)](https://github.com/r3v2d0g/clone-block/blob/main/LICENSE.txt) [![img](https://img.shields.io/crates/v/clone-block.svg)](https://crates.io/crates/clone-block) [![img](https://docs.rs/clone-block/badge.svg)](https://docs.rs/clone-block)
 
+Based on this tweet: <https://twitter.com/untitaker/status/1299812136202493953>
+
 ```rust
 use clone_block::clone;
 use std::thread;

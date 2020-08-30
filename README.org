@@ -5,6 +5,8 @@
 [[https://crates.io/crates/clone-block][https://img.shields.io/crates/v/clone-block.svg]]
 [[https://docs.rs/clone-block][https://docs.rs/clone-block/badge.svg]]
 
+Based on this tweet: [[https://twitter.com/untitaker/status/1299812136202493953]]
+
 #+BEGIN_SRC rust
 use clone_block::clone;
 use std::thread;
