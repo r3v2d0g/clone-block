@@ -1,0 +1,13 @@
+[package]
+name = "clone-block"
+description = "A very simple macro that clones a list of variables before calling an expression"
+version = "0.1.0"
+homepage = "https://github.com/r3v2d0g/clone-block"
+repository = "https://git.r3vd5u3d.network/~r3v2d0g/clone-block"
+documentation = "https://docs.rs/clone-block"
+keywords = []
+categories = []
+readme = "README.md"
+license = "MPL-2.0"
+authors = ["Matthieu Le brazidec (r3v2d0g) <r3v2d0g@jesus.gg>"]
+edition = "2018"
